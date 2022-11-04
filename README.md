@@ -7,25 +7,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaLCardoso&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
+  <hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <p align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="JQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/de6fc260d1b508b886eb59b723ae9970d45a5f11/images/php.svg">
-   
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
+    <code><img title="React" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/react-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
+    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
+    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/jquery-original.svg"></code>
+    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/php.svg"></code>
+    <code><img title="BS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code> 
+    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/de6fc260d1b508b886eb59b723ae9970d45a5f11/images/mysql.svg"></code> 
+    <code><img title="GH" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/de6fc260d1b508b886eb59b723ae9970d45a5f11/images/github.svg">       </code>
   </p> 
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102070032/199860449-1fe9f284-279e-4e20-828c-c7235557ec05.png">
+  
+ 
 </div>
 <div> 
-   <p align="center">
-   <a href="https:https://www.linkedin.com/in/andressa-lira-b6072097/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/andressalira.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= "https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto:andressa_lira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-   </p>
- 
-  
+ <h5 align="center">
+  <code>
+ <a href="https://www.linkedin.com/in/andressa-lira-b6072097/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/linkedin.svg"> LinkedIn</a></code>
+   <code>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto:andressa_lira@outlook.com" title="E-mail"><img width="22" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png"
+> E-mail</a></code>
+  <code>
+    <a href="https://www.instagram.com/andressalira.jpg/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
+</h5>
+  <br>
+   <img align="right" alt="pic" height="200" style="border-radius:50px" src="https://user-images.githubusercontent.com/102070032/199860449-1fe9f284-279e-4e20-828c-c7235557ec05.png">
  
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
