@@ -1,4 +1,4 @@
-<h4 align="center"><samp>  Olá 🖐️ bem vindo ao meu Github! Sou uma entusiasta em programação e suas tecnologias, acadêmica de sistemas para internet também gosto de PhP e estou explorando React Native ⚛️<br>
+<h4 align="center"><samp>  Olá 🖐️ bem vindo ao meu Github! Sou uma entusiasta em programação e suas tecnologias, acadêmica em sistemas para internet também gosto de PhP e estou explorando React Native ⚛️<br>
   👾 Fun fact: Equal is Not Always Equal in Javascript! Think about it 💬 </samp></h4>
   
 <div align="center">
