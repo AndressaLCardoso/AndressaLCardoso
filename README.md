@@ -12,7 +12,7 @@ const andressaLira = {
     from: "Brasil",
     job: ["Fábrica de Software"],
     education: ["Acadêmica em Sistemas para Internet"],
-    code: [Javascript, HTML, CSS, Python, Java],
+    code: [Javascript, HTML, CSS, Python],
     tools: [React, Node, GitHub, Pandas, Jupyter notebook],
     databases: ["MySql"],
  }
