@@ -8,14 +8,14 @@
 
 ```javascript
 const andressaLira = {
-    pronouns: "she" | "her",
+    pronouns: "she/her",
     from: "Brasil",
-    job: ["ALPB","Fábrica de Software"],
+    job: ["ALPB", "Fábrica de Software"],
     education: ["Formada em Sistemas para Internet", "Acadêmica em Inteligência Artificial e Machine Learning"],
-    code: [TypeScript, Python, React, Spring, Angular],
-    tools: [Node, Pandas, Jupyter],
-    databases: ["MySql","PostgreSQL"],
- }
+    code: ["TypeScript", "Python", "React", "Spring", "Angular"],
+    tools: ["Node", "Pandas", "Jupyter"],
+    databases: ["MySQL", "PostgreSQL"],
+};
  
   hobbies: ["Tecnologia", "Jogos retrô", "Cinema", "DotA2", "Fotografia", "Animais"],
   funFact: "Existem duas maneiras de escrever programas sem erros; só o terceiro funciona"    
