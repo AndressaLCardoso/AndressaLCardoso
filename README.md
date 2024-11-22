@@ -10,11 +10,11 @@
 const andressaLira = {
     pronouns: "she" | "her",
     from: "Brasil",
-    job: ["Fábrica de Software"],
-    education: ["Acadêmica em Sistemas para Internet"],
-    code: [Javascript, HTML, CSS, Python],
-    tools: [React, Node, GitHub, Pandas, Jupyter notebook],
-    databases: ["MySql"],
+    job: ["ALPB',"Fábrica de Software"],
+    education: ["Formada em Sistemas para Internet", "Acadêmica em Inteligência Artificial e Machine Learning"],
+    code: [TypeScript, Python, React, Spring, Angular],
+    tools: [ Node, Pandas, Jupyter],
+    databases: ["MySql","PostgreSQL"],
  }
  
   hobbies: ["Tecnologia", "Jogos retrô", "Cinema", "DotA2", "Fotografia", "Animais"]
